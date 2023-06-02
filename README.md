@@ -9,6 +9,9 @@
 		<img src="Veri Tabanı Sistemleri.svg" alt="Veri Tabanı Sistemleri">
 	</a>
 	<a href="https://github.com/mucahit-keles/">
+		<img src="İşletim Sistemleri.svg" alt="İşletim Sistemleri">
+	</a>
+	<a href="https://github.com/mucahit-keles/">
 		<img src="Sürüm Kontrol Sistemleri.svg" alt="Sürüm Kontrol Sistemleri">
 	</a>
 </p>
