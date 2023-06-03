@@ -1,10 +1,10 @@
 @media (prefers-color-scheme: light) {
-	#KodlamaDilleri {
+	.KodlamaDilleri {
 		background-image: url("KodlamaDilleri-acik.svg");
 	}
 }
 @media (prefers-color-scheme: dark) {
-	#KodlamaDilleri {
+	.KodlamaDilleri {
 		background-image: url("KodlamaDilleri-koyu.svg");
 	}
 }

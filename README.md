@@ -2,7 +2,7 @@
 
 <p align="center">
 	<a href="#">
-		<div id="KodlamaDilleri"></div>
+		<div class="KodlamaDilleri"></div>
 	</a>
 	<br>
 	<a href="#">
