@@ -1,6 +1,6 @@
 <p align="center">
 	<a href="#">
-		<img src="Kodlama Dilleri.svg" alt="Kodlama Dilleri">
+		<div id="KodlamaDilleri">
 	</a>
 	<br>
 	<a href="#">
@@ -11,3 +11,16 @@
 		<img src="Veri Tabanı Sistemleri.svg" alt="Veri Tabanı Sistemleri">
 	</a>
 </p>
+
+<style>
+	@media (prefers-color-scheme: light) {
+		@KodlamaDilleri {
+			background-image: url("KodlamaDilleri-acik.svg");
+		}
+	}
+	@media (prefers-color-scheme: dark) {
+		@KodlamaDilleri {
+			background-image: url("KodlamaDilleri-koyu.svg");
+		}
+	}
+</style>
