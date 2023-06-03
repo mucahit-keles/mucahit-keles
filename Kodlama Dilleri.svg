@@ -1,7 +1,7 @@
 <svg width="495" height="100" viewBox="0 0 495 100" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Kodlama Dilleri">
 	<title>Kodlama Dilleri</title>
 	
-	<rect x="0.5" y="0.5" rx="9.5" height="99" width="494" fill="#1e1e2e" stroke-opacity="1" stroke="#cba6f7"/>
+	<rect x="0.5" y="0.5" rx="9.5" height="99" width="494" fill="#11111b" stroke-opacity="1" stroke="#b4befe"/>
 	
 	<g transform="translate(0, 35)">
 		<text x="50%" y="0" text-anchor="middle" class="header">
@@ -21,7 +21,7 @@
 	<style>
 		.header {
 			font: 600 18px 'Helvetica', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-			fill: #cba6f7;
+			fill: #cdd6f4;
 		}
 	</style>
 </svg>
