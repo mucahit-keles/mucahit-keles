@@ -21,13 +21,11 @@
 	<style>
 		.baslik {
 			font: 600 18px 'Helvetica', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+			fill: #cdd6f4;
 		}
 		.taban {
 			fill: #11111b;
 			stroke: #b4befe;
-		}
-		.baslik {
-			fill: #cdd6f4;
 		}
 		.cerceve {
 			fill: #181825;
