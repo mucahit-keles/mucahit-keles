@@ -1,6 +1,7 @@
-👋 Welcome to my profile!
-
 <p align="center">
+	👋 Welcome to my profile!
+	<br>
+	<br>
 	<a href="#">
 		<img src="ProgrammingLangs-dark.svg" alt="Programming Languages">
 	</a>
