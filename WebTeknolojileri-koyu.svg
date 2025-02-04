@@ -1,11 +1,11 @@
-<svg width="495" height="100" viewBox="0 0 495 100" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Web Teknolojileri">
-	<title>Web Teknolojileri</title>
+<svg width="495" height="100" viewBox="0 0 495 100" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Web Technologies">
+	<title>Web Technologies</title>
 	
-	<rect class="taban" x="0.5" y="0.5" rx="9.5" height="99" width="494" stroke-opacity="1"/>
+	<rect class="base" x="0.5" y="0.5" rx="9.5" height="99" width="494" stroke-opacity="1"/>
 	
 	<g transform="translate(0, 35)">
-		<text x="50%" y="0" text-anchor="middle" class="baslik">
-			Web Teknolojileri
+		<text x="50%" y="0" text-anchor="middle" class="caption">
+			Web Technologies
 		</text>
 	</g>
 	
@@ -25,19 +25,19 @@
 	</g>
 	
 	<style>
-		.baslik {
+		.caption {
 			font: 600 18px 'Helvetica', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 			fill: #cdd6f4;
 		}
-		.taban {
+		.base {
 			fill: #11111b;
 			stroke: #b4befe;
 		}
-		.cerceve {
+		.frame {
 			fill: #181825;
 			stroke: #313244;
 		}
-		.isim {
+		.name {
 			fill: #ffffff;
 		}
 	</style>
