@@ -1,7 +1,7 @@
-<svg width="350" height="100" viewBox="0 0 350 100" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Web Technologies">
+<svg width="495" height="100" viewBox="0 0 495 100" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Web Technologies">
 	<title>Web Technologies</title>
 
-	<rect class="base" x="0.5" y="0.5" rx="9.5" height="99" width="349" stroke-opacity="1"/>
+	<rect class="base" x="0.5" y="0.5" rx="9.5" height="99" width="494" stroke-opacity="1"/>
 
 	<g transform="translate(0, 35)">
 		<text x="50%" y="0" text-anchor="middle" class="caption">
@@ -9,7 +9,7 @@
 		</text>
 	</g>
 
-	<g transform="translate(40.5, 35)">
+	<g transform="translate(100, 35)">
 		<g transform="translate(0, 15)">
 			<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="82" height="28" role="img" aria-label="HTML"><title>HTML</title><g shape-rendering="crispEdges"><rect width="80" height="26" fill="#181825" x="1.2" y="0.5" rx="4.5" stroke-opacity="1" stroke-width="1" stroke="#313244"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><image x="9" y="7" width="16" height="14" xlink:href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmFiMzg3IiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+SFRNTDU8L3RpdGxlPjxwYXRoIGQ9Ik0xLjUgMGgyMWwtMS45MSAyMS41NjNMMTEuOTc3IDI0bC04LjU2NC0yLjQzOEwxLjUgMHptNy4wMzEgOS43NWwtLjIzMi0yLjcxOCAxMC4wNTkuMDAzLjIzLTIuNjIyTDUuNDEyIDQuNDFsLjY5OCA4LjAxaDkuMTI2bC0uMzI2IDMuNDI2LTIuOTEuODA0LTIuOTU1LS44MS0uMTg4LTIuMTFINi4yNDhsLjMzIDQuMTcxTDEyIDE5LjM1MWw1LjM3OS0xLjQ0My43NDQtOC4xNTdIOC41MzF6Ii8+PC9zdmc+"/><text transform="scale(.1)" x="520" y="175" textLength="360" fill="#fff" font-weight="bold">HTML</text></g></svg>
 		</g>
