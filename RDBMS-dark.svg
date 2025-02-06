@@ -1,11 +1,11 @@
 <svg width="550" height="100" viewBox="0 0 550 100" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Database Software (RDBMS)">
-	<title>Database Software (RDBMS)</title>
+	<title>Database Management Systems (RDBMS)</title>
 
 	<rect class="base" x="0.5" y="0.5" rx="9.5" height="99" width="549" stroke-opacity="1"/>
 
 	<g transform="translate(0, 35)">
 		<text x="50%" y="0" text-anchor="middle" class="caption">
-			Database Software (RDBMS)
+			Database Management Systems (RDBMS)
 		</text>
 	</g>
 
